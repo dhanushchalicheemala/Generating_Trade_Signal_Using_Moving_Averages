@@ -1,4 +1,4 @@
-# Stock Price Analysis Web App
+# Stock Price Trade Signal Generator Web App
 
 ## Introduction
 This Python script, stockprice.py, powers a simple web application designed for stock market trade signal analysis. It utilizes several libraries such as yfinance, streamlit, pandas, numpy, matplotlib, and plotly to fetch and display stock data along with trade signals based on moving averages.
